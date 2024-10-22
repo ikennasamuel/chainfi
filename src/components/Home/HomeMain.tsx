@@ -8,7 +8,7 @@ const Home = () => {
           <div className="p-[50px] max-w-[850px] flex flex-col gap-3">
             <h1 className="text-white text-[34px] font-[600] md:text-[46px]">Blockchain Rectification</h1>
             <p className="text-white">This is not an app but a protocol that establishes a remote resolution between all noncustodial wallet discover decentralized solutions, seamless transactions, and a decentralized ecosystem. Join us in revolutionizing the way you interact with digital assets and decentralized applications.</p>
-            <Link href='/syncwallets' className="bg-[#3772ff] rounded-[20px] py-2 text-white w-[200px] mt-3">Connect Wallet</Link>
+            <Link href='/syncwallets' className="bg-[#3772ff] text-center rounded-[20px] py-2 text-white w-[200px] mt-3">Connect Wallet</Link>
           </div>
         </div>
         <div>
